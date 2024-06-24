@@ -27,4 +27,4 @@ The format for the item is [software link] - [Paper link] (Available in which pa
 3. [`CisTEM_Simulate`](https://github.com/timothygrant80/cisTEM/blob/master/src/programs/simulate/simulate.cpp) - [**Cryo-TEM simulations of amorphous radiation-sensitive samples using multislice wave propagation**](https://www.biorxiv.org/content/10.1101/2021.02.19.431636v2)
 
 ## Tests
-1. [`csep`](https://github.com/bayonato89/Reproducibility-hybrids) - [****]()
+1. [`csep`](https://github.com/bayonato89/Reproducibility-hybrids) - [**Prospective evaluation of multiplicative hybrid earthquake forecasting models in California**](https://academic.oup.com/gji/article/229/3/1736/6510818)
