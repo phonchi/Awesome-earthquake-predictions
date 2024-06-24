@@ -1,4 +1,4 @@
-# Awesome-earthquake-models
+# Awesome-earthquake-predictions
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository is a curated list of earthquake models!
@@ -12,6 +12,13 @@ The format for the item is [software link] - [Paper link] (Available in which pa
 
 # Resources
 
+## Resources
+* [Awesome Open Geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
+
+## Tutorual
+* [Seismology101](https://seismo-learn.org/seismology101/)
+* [SeisTomo Tutorials](https://migg-ntu.github.io/SeisTomo_Tutorials/index.html)
+
 ## Events and News
 * [Italy 2024 Forecasting Experiment – Open Call for modelers](https://cseptesting.org/italy2024experiment/)
 
@@ -24,7 +31,12 @@ The format for the item is [software link] - [Paper link] (Available in which pa
 ## Models
 1. [`simpleETAS`](https://github.com/smancini2/simplETAS/) - [**SimplETAS: A Benchmark Earthquake Forecasting Model Suitable for Operational Purposes and Seismic Hazard Analysis**](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/95/1/38/628378/SimplETAS-A-Benchmark-Earthquake-Forecasting-Model?redirectedFrom=fulltext)
 2. [`calibrate ETAS`](https://github.com/lmizrahi/etas) - [**The Effect of Declustering on the Size Distribution of Mainshocks**](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/92/4/2333/594794/The-Effect-of-Declustering-on-the-Size?redirectedFrom=fulltext)
-3. [`CisTEM_Simulate`](https://github.com/timothygrant80/cisTEM/blob/master/src/programs/simulate/simulate.cpp) - [**Cryo-TEM simulations of amorphous radiation-sensitive samples using multislice wave propagation**](https://www.biorxiv.org/content/10.1101/2021.02.19.431636v2)
+3. [`Machine learning`](https://github.com/akash-r34/Earthquake-prediction-using-Machine-learning-models/tree/main)
+4. [`Time series`](https://github.com/ThecoderPinar/Earthquake_Prediction_Analysis_Project)
+
+## Analysis
+1. [`ObsPy`](https://github.com/obspy/obspy)
+2. [`GISMO`](https://geoscience-community-codes.github.io/GISMO/)
 
 ## Tests
 1. [`csep`](https://github.com/bayonato89/Reproducibility-hybrids) - [**Prospective evaluation of multiplicative hybrid earthquake forecasting models in California**](https://academic.oup.com/gji/article/229/3/1736/6510818)
