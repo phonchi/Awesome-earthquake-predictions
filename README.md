@@ -1,7 +1,7 @@
 # Awesome-earthquake-predictions
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-This repository is a curated list of earthquake models!
+This repository is a curated list of earthquake prediction models!
 
 You will find the paper and associated software for the popular algorithms used in the field.
 
