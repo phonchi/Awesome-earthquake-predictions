@@ -89,6 +89,7 @@ The format for the item is `[Software link]` - `[Paper link]` (Description / Ava
 
 *Algorithms for generating earthquake probabilities (ETAS, Deep Learning).*
 
+* [`PyEEPAS`](https://github.com/phonchi/EEPAS) - [Paper](https://arxiv.org/abs/2512.13064) (Tools for EEPAS parameter estimation).
 * [`RECAST`](https://github.com/keliankaz/recast) - [Paper](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL103982) (Neural Temporal Point Process model surpassing ETAS on large datasets).
 * [`DeepSTPP`](https://github.com/Rose-STL-Lab/DeepSTPP) - [Paper](https://arxiv.org/abs/2205.11663) (Spatio-temporal forecasting using deep learning).
 * [`SimplETAS`](https://github.com/smancini2/simplETAS/) - [Paper](https://pubs.geoscienceworld.org/ssa/srl/article-abstract/95/1/38/628378/SimplETAS-A-Benchmark-Earthquake-Forecasting-Model) (Standard statistical epidemic-type forecasting).
